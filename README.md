@@ -1,1 +1,1 @@
-# cab-booking-application
+# QuickCab (cab-booking-application)
